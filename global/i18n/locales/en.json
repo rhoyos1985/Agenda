@@ -1,0 +1,42 @@
+{
+	"bienvenida": "Contacts",
+	"name": "Name",
+	"lastname": "Last Name",
+	"username": "User Name",
+	"age": "Age",
+	"email": "E-Mail",
+	"sex": "Sex",
+	"password": "Password",
+	"confirmpassword" : "Confirm Password",
+	"signup": "Singup",
+	"login": "Login",
+	"title": "Contacts",
+	"descriptions": "Contacts",
+	"keywords": "API, rest, node, mongo, mongoose, html5, express",
+	"save" : "Save",
+	"errApp": {
+		"err500": "Internal server error, please try later",
+		"err400": "Application Error please report if it happens again",
+		"errDB0001": "Connection Error database"
+	},
+	"successApp": {
+		"msjConDB": "Connected to the database",
+		"saveOk": "Successful"
+	},
+	"msjErrGN": {
+		"msjErrMax": "Field %s must be maximum (%d) characters.",
+		"msjErrMin": "Field %s must have a minimum (%d) characters.",
+		"msjFldReq": "Field %s is required.",
+		"msjItemIn": "The option selected is invalid.",
+		"saveErr" : "El proceso no se realizó correctamente "
+	},
+	"msjErrUserDB": {
+		"mjsErrEmail": "E-mail invalid.",
+		"msjErrPassw": "Passwords are not equal.",
+		"msjErrEdadM": "The minimum age is %d years old.",
+		"msjErrEdadX": "The maximum age allowed is %d years old."
+	},
+	"msjErrContactDB": {
+		"msjErrPhone": "The number is invalid"
+	}
+}

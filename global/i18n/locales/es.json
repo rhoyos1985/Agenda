@@ -1,0 +1,42 @@
+{
+	"bienvenida": "Agenda Electrónica",
+	"name": "Nombre",
+	"lastname": "Apellido",
+	"username": "Nombre de Usuario",
+	"age": "Edad",
+	"email": "Correo Electrónico",
+	"sex": "Sexo",
+	"password": "Contraseña",
+	"confirmpassword": "Confirmar Contraseña",
+	"signup": "Registro",
+	"login": "Iniciar Sesión",
+	"save": "Guardar",
+	"title": "Agenda",
+	"descriptions": "Agenda",
+	"keywords": "API, rest, node, mongo, mongoose, html5, express",
+	"errApp": {
+		"err500": "Error Interno del servidor por favor intente mas tarde",
+		"err400": "Error en la aplicación por favor reporte si vuelve a suceder",
+		"errDB0001": "Error de Conexión a las base de datos"
+	},
+	"successApp": {
+		"msjConDB": "Conectado a la base de datos",
+		"saveOk": "Proceso exitoso."
+	},
+	"msjErrGN": {
+		"msjErrMax": "El campo %s debe tener máximo (%d) caracteres.",
+		"msjErrMin": "El campo %s debe tener mínimo (%d) caracteres.",
+		"msjFldReq": "El campo %s es obligatorio.",
+		"msjItemIn": "La opción seleccionada no es válida.",
+		"saveErr" : "El proceso no se realizó correctamente "
+	},
+	"msjErrUserDB": {
+		"mjsErrEmail": "Correo electronico no válido.",
+		"msjErrPassw": "Las contraseñas no son iguales.",
+		"msjErrEdadM": "La edad mínima permitida es de %d años.",
+		"msjErrEdadX": "La edad máxima permitida es de %d años."
+	},
+	"msjErrContactDB": {
+		"msjErrPhone": "El número no es válido"
+	}
+}
