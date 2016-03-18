@@ -1,3 +1,3 @@
 # Agenda
-Proyecto de Agenda electronica en NodeJs
+Proyecto de Agenda electrónica en NodeJs
 
